@@ -1,0 +1,159 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sovrn 1952",
+      "description": "Stop living in the year 1952 and go skate with the Sovrn 1952 Deck 8.5 x 32.",
+      "category": "Decks",
+      "price": 59.99,
+      "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=SV5282DK-2.jpg&nw=870"
+    },
+    {
+      "id": 2,
+      "name": "Shuvit Assorted Stain",
+      "description": "Forget about the stain on your shirt and go skate with the Shuvit Assorted Stain Deck 7.625 x 31.375.",
+      "category": "Decks",
+      "price": 34.99,
+      "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=SHYL76DK-1.jpg&nw=870"
+    },
+    {
+      "id": 3,
+      "name": "5Boro VHS Jeremy Murray",
+      "description": "Leave the vhs tapes at home and get outside to go skate with the 5Boro VHS Jeremy Murray Deck 8.375 x 32.",
+      "category": "Decks",
+      "price": 52.99,
+      "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=5BJ83DK-1.jpg&nw=870"
+    },
+    {
+      "id": 4,
+      "name": "Silver M-Class Hollow",
+      "description": "The Silver Hollow M Class Trucks Silver M-Class trucks optimize turning ability with a refined structure and distinctive contours.",
+      "category": "Trucks",
+      "price": 22.99,
+      "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=SIMHTR-BL-BK-1.jpg&nw=870"
+    },
+    {
+      "id": 5,
+      "name": "Destructo D1 Low",
+      "description": "The Destructo D1 Low Trucks sport a lower center of gravity for accelerated flips.",
+      "category": "Trucks",
+      "price": 21.99,
+      "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=DE1LTR-SI-SI-1.jpg&nw=870"
+    },
+    {
+      "id": 6,
+      "name": "Bones SPF Spines 81B P5 Sidecuts",
+      "description": "Designed to be versatile and lightweight to lock-in with less slide drag for longer and faster grinds.",
+      "category": "Wheels",
+      "price": 34.99,
+      "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=BSSP5WH-WH9-1.jpg&nw=870"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Sovrn 1952",
+        "description": "Stop living in the year 1952 and go skate with the Sovrn 1952 Deck 8.5 x 32.",
+        "category": "Decks",
+        "price": 59.99,
+        "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=SV5282DK-2.jpg&nw=870"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Sovrn 1952",
+        "description": "Stop living in the year 1952 and go skate with the Sovrn 1952 Deck 8.5 x 32.",
+        "category": "Decks",
+        "price": 59.99,
+        "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=SV5282DK-2.jpg&nw=870"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Shuvit Assorted Stain",
+        "description": "Forget about the stain on your shirt and go skate with the Shuvit Assorted Stain Deck 7.625 x 31.375.",
+        "category": "Decks",
+        "price": 34.99,
+        "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=SHYL76DK-1.jpg&nw=870"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Destructo D1 Low",
+        "description": "The Destructo D1 Low Trucks sport a lower center of gravity for accelerated flips.",
+        "category": "Trucks",
+        "price": 21.99,
+        "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=DE1LTR-SI-SI-1.jpg&nw=870"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "5Boro VHS Jeremy Murray",
+        "description": "Leave the vhs tapes at home and get outside to go skate with the 5Boro VHS Jeremy Murray Deck 8.375 x 32.",
+        "category": "Decks",
+        "price": 52.99,
+        "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=5BJ83DK-1.jpg&nw=870"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Shuvit Assorted Stain",
+        "description": "Forget about the stain on your shirt and go skate with the Shuvit Assorted Stain Deck 7.625 x 31.375.",
+        "category": "Decks",
+        "price": 34.99,
+        "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=SHYL76DK-1.jpg&nw=870"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "5Boro VHS Jeremy Murray",
+        "description": "Leave the vhs tapes at home and get outside to go skate with the 5Boro VHS Jeremy Murray Deck 8.375 x 32.",
+        "category": "Decks",
+        "price": 52.99,
+        "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=5BJ83DK-1.jpg&nw=870"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Silver M-Class Hollow",
+        "description": "The Silver Hollow M Class Trucks Silver M-Class trucks optimize turning ability with a refined structure and distinctive contours.",
+        "category": "Trucks",
+        "price": 22.99,
+        "imageUrl": "https://img.skatewarehouse.com/watermark/rs.php?path=SIMHTR-BL-BK-1.jpg&nw=870"
+      },
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
